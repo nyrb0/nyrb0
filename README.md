@@ -1,16 +1,21 @@
-## Hi there 👋
+### 👋 Hi!, my name is Nurbo
 
-<!--
-**nyrb0/nyrb0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ Stack technology
 
-Here are some ideas to get you started:
+🔹 **Frontend:** React, Next.js, JavaScript, TypeScript, Tailwind CSS, Styled-components, MUI, Redux, Mobx, Scss, Vite, Webpack, TanStack-query, Zustand  
+🔹 **Backend:** TypeScript, Nest.js, PostgreSQL, Prisma, AWS, Swager, REST-API
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📊 GitHub statistics
+
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=nyrb0&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### 📫 Contact
+
+📧 Email: [nubolotkadyrov06@gmail.com](mailto:nubolotkadyrov06@gmail.com)  
+💼 Telegram: [t.me/ny1b0](t.me/ny1b0)
+
+💡 **Open to interesting projects and collaborations!**

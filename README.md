@@ -3,6 +3,7 @@
 ### 🛠️ Stack technology
 
 🔹 **Frontend:** React, Next.js, JavaScript, TypeScript, Tailwind CSS, Styled-components, MUI, Redux, Mobx, Scss, Vite, Webpack, TanStack-query, Zustand, Ant design, i18next
+
 🔹 **Backend:** TypeScript, Nest.js, PostgreSQL, Prisma, AWS, Swager, REST-API
 
 ---

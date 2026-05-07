@@ -51,8 +51,3 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ny1b0)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nubolotkadyrov06@gmail.com)
 
----
-
-### 🚀 Текущие проекты
-- **Aytrack** — Маркетплейс для любителей Fixed Gear культуры в этно-стиле.
-- **Easy Beauty** — Платформа для бьюти-индустрии (в разработке).

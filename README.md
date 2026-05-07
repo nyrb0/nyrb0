@@ -1,15 +1,15 @@
-# 👋 Привет, я Нурболот! (Nurbo)
+# 👋 Hi, I'm Nurbolot! (Nurbo)
 
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=nyrb0&label=Profile%20views&color=0e76a8&style=flat" alt="nyrb0" />
 </p>
 
-### 👨‍💻 Обо мне
-Я **Middle Fullstack Developer** (с сильным уклоном в Frontend)
+### 👨‍💻 About Me
+I am a **Middle Fullstack Developer** with a strong focus on **Frontend**.Who is always ready to fight
 
 ---
 
-### 🛠️ Мой технологический стек
+### 🛠️ Tech Stack
 
 #### 🌐 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -33,7 +33,7 @@
 
 ---
 
-### 📊 Моя активность на GitHub
+### 📊 GitHub Stats
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nyrb0&layout=compact&theme=radical&hide_border=true" />
@@ -46,8 +46,7 @@
 
 ---
 
-### 📫 Как со мной связаться?
+### 📫 Contact Me
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ny1b0)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nubolotkadyrov06@gmail.com)
-

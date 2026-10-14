@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Nurbolot! (Nurbo)
 
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=nyrb0&label=Profile%20views&color=0e76a8&style=flat" alt="nyrb0" />
+  <img src="https://hits.sh/github.com/nyrb0.svg?style=flat&label=Profile%20views&color=0e76a8" alt="Profile views" />
 </p>
 
 <p align="left">

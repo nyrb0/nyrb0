@@ -4,8 +4,11 @@
 <img src="https://komarev.com/ghpvc/?username=nyrb0&label=Profile%20views&color=0e76a8&style=flat" alt="nyrb0" />
 </p>
 
-### 👨‍💻 About Me
-I am a **Middle Fullstack Developer** with a strong focus on **Frontend**.Who is always ready to fight
+<p align="left">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=0E76A8&vCenter=true&width=600&height=45&lines=I+am+a+Middle%2B+Fullstack+Developer;Always+ready+to+fight+%F0%9F%A5%8A;React+%7C+Next.js+%7C+NestJS+%7C+TypeScript;Turning+coffee+into+code+%E2%98%95" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
@@ -31,19 +34,6 @@ I am a **Middle Fullstack Developer** with a strong focus on **Frontend**.Who is
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nyrb0&layout=compact&theme=radical&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=nyrb0&show_icons=true&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=nyrb0&theme=radical&hide_border=true" />
-</p>
 
 ---
 

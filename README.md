@@ -1,43 +1,98 @@
-# 👋 Hi, I'm Nurbolot! (Nurbo)
+<!-- ═══════════════ HEADER ═══════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0E76A8,50:6C3CE9,100:E0234E&height=260&section=header&text=Nurbolot%20%28Nurbo%29&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Middle%2B%20Fullstack%20Developer&descAlignY=60&descSize=22" />
 
-<p align="left">
-  <img src="https://hits.sh/github.com/nyrb0.svg?style=flat&label=Profile%20views&color=0e76a8" alt="Profile views" />
-</p>
+<div align="center">
 
-<p align="left">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=0E76A8&vCenter=true&width=600&height=45&lines=I+am+a+Middle%2B+Fullstack+Developer;Always+ready+to+fight+%F0%9F%A5%8A;React+%7C+Next.js+%7C+NestJS+%7C+TypeScript;Turning+coffee+into+code+%E2%98%95" alt="Typing SVG" />
-  </a>
-</p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D1FF&center=true&vCenter=true&width=700&height=50&lines=Middle%2B+Fullstack+Developer;React+%7C+Next.js+%7C+NestJS+%7C+TypeScript;Always+ready+to+fight+%F0%9F%A5%8A;Turning+coffee+into+code+%E2%98%95" alt="Typing SVG" />
+</a>
 
----
+<br/>
 
-### 🛠️ Tech Stack
+<img src="https://hits.sh/github.com/nyrb0.svg?style=for-the-badge&label=Profile%20views&color=0e76a8&labelColor=0d1117" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/nyrb0?style=for-the-badge&logo=github&color=6C3CE9&labelColor=0d1117" alt="Followers" />
+<img src="https://img.shields.io/github/stars/nyrb0?style=for-the-badge&logo=github&color=E0234E&labelColor=0d1117" alt="Stars" />
 
-#### 🌐 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+</div>
+
+<br/>
+
+<!-- ═══════════════ ABOUT ═══════════════ -->
+## 👋 About me
+
+```ts
+const nurbo = {
+  name: "Nurbolot",
+  nickname: "Nurbo",
+  role: "Middle+ Fullstack Developer",
+  location: "Bishkek, Kyrgyzstan 🇰🇬",
+  focus: ["React / Next.js", "NestJS", "TypeScript", "React Native"],
+  mindset: "Always ready to fight 🥊",
+  fuel: "☕ coffee",
+  lookingFor: "Interesting projects & strong teams",
+} as const;
+```
+
+<br/>
+
+<!-- ═══════════════ STACK ═══════════════ -->
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### 🌐 Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,redux,tailwind&perline=5" /><br/>
+
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![MobX](https://img.shields.io/badge/MobX-FF9955?style=for-the-badge&logo=mobx&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-443322?style=for-the-badge&logo=react&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![TanStack Query](https://img.shields.io/badge/-Tanstack%20Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
-![Ant Design](https://img.shields.io/badge/-Ant%20Design-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/-TanStack%20Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
+![Ant Design](https://img.shields.io/badge/-Ant%20Design-0170FE?style=for-the-badge&logo=ant-design&logoColor=white)
 
-#### ⚙️ Backend, DB & OS
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+### ⚙️ Backend · DB · DevOps
 
----
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,postgres,prisma,docker,linux,ubuntu&perline=7" />
 
-### 📫 Contact Me
+</div>
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ny1b0)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nubolotkadyrov06@gmail.com)
+<br/>
+
+<!-- ═══════════════ STATS ═══════════════ -->
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=nyrb0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D1FF&icon_color=6C3CE9&include_all_commits=true&count_private=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyrb0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D1FF&langs_count=8" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=nyrb0&theme=tokyonight&hide_border=true&background=0d1117&ring=6C3CE9&fire=E0234E&currStreakLabel=00D1FF" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=nyrb0&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=12" />
+
+</div>
+
+
+
+<br/>
+
+<!-- ═══════════════ CONTACT ═══════════════ -->
+## 📫 Let's connect
+
+<div align="center">
+
+<a href="https://t.me/ny1b0"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+<a href="mailto:nubolotkadyrov06@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<br/><br/>
+
+⭐ *If you like my work, drop a star — it fuels the coffee machine!* ⭐
+
+</div>
+
+<!-- ═══════════════ FOOTER ═══════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:E0234E,50:6C3CE9,100:0E76A8&height=120&section=footer" />
